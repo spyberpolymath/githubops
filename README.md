@@ -201,7 +201,7 @@ We're continuously evolving GitHub Ops Protocol with exciting new capabilities. 
 [![GitHub](https://img.shields.io/badge/GitHub-spyberpolymath-black)](https://github.com/spyberpolymath)
 [![Kaggle](https://img.shields.io/badge/Kaggle-spyberpolymath-orange)](https://kaggle.com/spyberpolymath)
 
-**📧 projects@spyberpolymath.com** | **🌐 [spyberpolymath.com](https://spyberpolymath.com)**
+**📧 aman@spyberpolymath.com** | **🌐 [spyberpolymath.com](https://spyberpolymath.com)**
 
 ---
 
